@@ -2,7 +2,7 @@
 
 ● A simple plugin can give you infinite slots on your server 
 
-# Furtres
+# Features
 
 ● Maybe upgrade then api 4.0.0
 
